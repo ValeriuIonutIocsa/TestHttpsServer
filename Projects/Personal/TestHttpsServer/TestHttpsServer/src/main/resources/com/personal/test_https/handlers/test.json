@@ -1,0 +1,23 @@
+[
+  {
+    "file_name": "document.txt",
+    "file_size": "2.5 MB",
+    "file_type": "Text",
+    "created_date": "2024-03-26",
+    "owner": "Alice"
+  },
+  {
+    "file_name": "image.jpg",
+    "file_size": "1.2 MB",
+    "file_type": "Image",
+    "created_date": "2024-03-25",
+    "owner": "Bob"
+  },
+  {
+    "file_name": "presentation.pptx",
+    "file_size": "5.8 MB",
+    "file_type": "Presentation",
+    "created_date": "2024-03-24",
+    "owner": "Charlie"
+  }
+]
